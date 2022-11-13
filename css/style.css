@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;600;700&family=Poppins:ital,wght@0,800;1,400;1,700;1,900&display=swap');
+*{
+    
+    font-family: 'Poppins', sans-serif;
+    background-color: slateblue;
+   
+}
+
+ul a {
+    color:black;
+    background-color: beige;
+    font-size: 20px;
+    font-weight: 900;
+    text-decoration: blue;
+}
+.a{
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    border-style: solid;
+    
+    
+}
+.b{
+    border-width: 3px 6px 9px 12px;
+}
+p{
+    border: solid black 3px;
+}
+.c , .d{
+    padding: 10px 20px 30px 40px;
+}
